@@ -7,6 +7,10 @@ public class test1 {
        System.out.println("Na gehts?");
        //TEST
        //behindertes intellij -.-
+       
+       
+       
+       // RESETS
 
     }
 
